@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/BoundingBox.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/GameStuff/HealthBar.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/GameStuff/SpecialBar.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/Store/SelectionOutlineBig.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/Store/ShopShipSliderBorder.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/Store/ShopShipSliderInside.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/Store/ShopWingSliderBorder.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/Store/ShopWingSliderInside.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/Store/UpgradeStore.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/World1.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MapStuff/World1Select.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MenuStuff/BackgroundArt.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MenuStuff/BackwardsMenuArrow.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MenuStuff/HealthBar.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MenuStuff/MenuArrow.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MenuStuff/SpecialBar.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MenuStuff/Title.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MultiSceneStuff/AllShips/Cores/Dart_Border.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MultiSceneStuff/AllShips/Cores/Dart_Inside.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MultiSceneStuff/AllShips/Cores/ShipSheet.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MultiSceneStuff/AllShips/Wings/Colliders_Border.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MultiSceneStuff/AllShips/Wings/Colliders_Inside.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MultiSceneStuff/PlayerBullets/Shrapnel.png</File>
+    <File>C:/Users/Supda/source/repos/Shattered Skies num3/Shattered Skies num3/Content/MultiSceneStuff/WhitePixel.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

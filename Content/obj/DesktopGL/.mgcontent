@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/AnimationTest.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/BoundingBox.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/Debug.spritefont</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Allies/MicroDrone.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Allies/OmegaDrone.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/BasicShot.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/Blood.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/BloodClot.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/Bouncy.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/BulletSheet.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/CryoDetonator.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/ContaminatorAOE.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/ContaminatorBomb.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/EnemyFlame.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/JinxBullet.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/Lazer.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/LazerBullet.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/Nowcaster/Cloud.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/Nowcaster/Hurricane.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EnemyBullets/Spike.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EssenceOrb.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/EssenceTimer.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/ExplosiveMines.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/ExplosiveShot.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/LivingFlower.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/LivingThorn.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/LockOnShot.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/ShatteringShot.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/Shrapnel.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Bullets/StarCannon.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/BulletUI.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/ChronologyCircle.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/CryoCircle.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/EffectIndicators.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Effects/BleedEffect.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Effects/BloodEffect2Wide.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/BasicEnemy/BasicEnemyInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/BasicEnemy/BasicEnemyOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Bouncer/BouncerInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Bouncer/BouncerOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Contaminator/ContaminatorInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Contaminator/ContaminatorOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Curlicue/CurlicueInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Curlicue/CurlicueOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Exploder/ExploderInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Exploder/ExploderOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Flamethrower/FlamethrowerInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Flamethrower/FlamethrowerOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Guardian/GuardianInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Guardian/GuardianOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Guardian/Wall.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Jinx/JinxInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Jinx/JinxOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Kamikaze/KamikazeInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Kamikaze/KamikazeOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Lazermancer/LazermancerInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Lazermancer/LazermancerOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Meteorologist/MeteorologistInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Meteorologist/MeteorologistOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Meteorologist/Rocks.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Mirage/MirageInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Nowcaster/Nowcaster.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Overseer/BounceCore.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Overseer/FlameCore.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Overseer/HomingCore.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Overseer/NormalCore.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Overseer/Overseer.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Pulsar/PulsarInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Pulsar/PulsarOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Pulsar/PulsarRing.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Retaliator/RetaliatorInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Retaliator/RetaliatorOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Scanner/ScannerInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Scanner/ScannerOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sizzler/SizzlerInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sizzler/SizzlerOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sniper/Sniper.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sniper/SniperGun.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sniper/SniperGunInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sniper/SniperGunOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sniper/SniperInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Sniper/SniperOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Spiker/SpikerInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Enemies/Spiker/SpikerOutline.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/EssenceUI.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/FlameParticle.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/FutureUI.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/GameObjects/Shield.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/HealthBar.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/MagicUI.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/PlasmaIndicator.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/PlasmaShock.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/PulsarWarning.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/ResultScreen/ResultScreen.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/Snap.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/StarCannonParticle.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/TargetParticle.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/UI/SpecialBarBorder.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/UI/SpecialBarInside.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/GameStuff/WarpParticle.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/CHALLENGING.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/EASY.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/EXTREME.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/MEDIUM.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/NEW PLANETS.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/Reaper Star.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/REAPER.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/RECKLESS.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/STANDARD.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/VERYEASY.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Planets/VERYHARD.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/ShipDictionary/Dictionary.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/ShipDictionary/DictionaryParticle.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/ShipDictionary/EnemyList.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/ShipDictionary/EnemyRelicList.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/SelectionOutlineBig.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopBullets1.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopBullets2.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopBullets3.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopRelicSlider.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopShip1.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopShip2.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopShip3.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopWings1.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopWings2.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/ShopWings3.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MapStuff/Store/UpgradeStore.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MenuStuff/BackgroundArt.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MenuStuff/BackwardsMenuArrow.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MenuStuff/HealthBar.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MenuStuff/MenuArrow.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MenuStuff/SpecialBar.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MenuStuff/Title.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Cores/Assassin/Assassin.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Cores/Dart/Dart.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Cores/Dart/DartThrusters.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Cores/Destroyer/Destroyer.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Cores/Omega/Omega.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Cores/Para/Para.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Wings/Colliders/Colliders.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Wings/Flashers/Flashers.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Wings/Fragmentisers/Fragmentisers.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Wings/Paralyzers/Paralyzers.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Wings/Shimmers/Shimmers.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/AllShips/Wings/Sparklers/Sparklers.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/ShipGhost.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/MultiSceneStuff/WhitePixel.png</File>
+    <File>C:/Users/Supda/source/repos/ShatteredSkies/Content/Pico.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
