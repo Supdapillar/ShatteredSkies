@@ -1,4 +1,3 @@
 # ShatteredSkies
-This was an old game i've worked on but I didnt like how it turned out and decided to cancel it for the time being
-
-This project was ment to be somthing small to help me learn the monogame framework but then I made this behemoth and the code quality suffered because of it
+This was an older project of mine made in Monogame intended to be used to teach myself C# and Monogame
+I ended up not liking how the project was turning out so I decided to scrap it in hopes of moving it to the Godot engine
